@@ -1,0 +1,10 @@
+/* Write your code here. */
+.img-btn {
+  background-color: #ffffff;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.activatedBtn {
+  opacity: 0.5;
+}
